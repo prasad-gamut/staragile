@@ -4,7 +4,7 @@ public class LoginUser
         {
                 int i;
 
-                for(i=0;i<=80;i++){
+                for(i=0;i<=20;i++){
 
                 
 
